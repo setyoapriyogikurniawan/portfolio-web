@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/pawantech12/portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/pawantech12/portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/pawantech12/portfolio-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/setyoapriyogikurniawan/portfolio-web)
+  ![GitHub stars](https://img.shields.io/github/stars/setyoapriyogikurniawan/portfolio-web?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/setyoapriyogikurniawan/portfolio-web?style=social)
 
   <br />
 
@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://setyoapriyogikurniawan.github.io/portfolio-web/"><strong>➥ Live Demo</strong></a>
+  <a href="https://setyoapriyogikurniawan.github.io/portfolio-web/"><strong>➥ Live Website</strong></a>
 
 </div>
 
@@ -136,7 +136,7 @@ git clone https://github.com/setyoapriyogikurniawan/portfolio-web.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/setyoapriyogikurniawan/).
 
 ### License
 
