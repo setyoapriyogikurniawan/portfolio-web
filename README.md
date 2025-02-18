@@ -18,7 +18,7 @@
 
 ### Desktop Preview
 
-https://github.com/pawantech12/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+https://github.com/setyoapriyogikurniawan/portfolio-web/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
 
 ### Prerequisites
 
@@ -125,13 +125,13 @@ To run **Personal Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/pawantech12/portfolio-website.git
+sudo git clone https://github.com/setyoapriyogikurniawan/portfolio-web.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/pawantech12/portfolio-website.git
+git clone https://github.com/setyoapriyogikurniawan/portfolio-web.git
 ```
 
 ### Contact
